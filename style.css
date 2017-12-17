@@ -6,7 +6,7 @@ p {
 body {
 	height: 100%;
 	margin: 0;
-	text-align: center;
+	text-align: right;
 	width: 100%;
 }
 
@@ -17,6 +17,7 @@ h1 {
 
 h3 {
 	font-size: 24px;
+  font-family:Palatimo, 'Palatino Linotype', serif;
 }
 
 h4 {
