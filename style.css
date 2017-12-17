@@ -31,17 +31,17 @@ h1 {
    color: black;
 }
 
+p {
+ font-size: 18px;
+ font-family:'Lato', sans-serif;
+ color: gray;
+}
+
 h4 {
    font-size: 18px;
    font-family:'Lato', sans-serif;
    color: gray;
    line-height: 5px;
-}
-
-p {
- font-size: 18px;
-   font-family:'Lato', sans-serif;
-   color: gray;
 }
 
 h3 {
