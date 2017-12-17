@@ -4,10 +4,15 @@ body {
 	margin-left: 200px;
 	margin-right: 200px;
 	border: 1px solid #000;
-	background color: beige; 
-	
+	background color: beige; 	
 }
 
+.photo {
+  position: relative; 
+  top: 0px; 
+  right: 0px;	
+}
+	
 .contact-info {
   text-align: center;
   font-weight: 100; 
@@ -18,13 +23,6 @@ body {
   padding: 20px;
 }
 
-.photo {
-  position: relative; 
-  top: 0px; 
-  right: 0px;	
-  border: 3px solid #73AD21;
-}
-	
 h1 {
    font-size: 32px;
    font-family:'Lato', sans-serif;
