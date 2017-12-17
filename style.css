@@ -7,6 +7,11 @@ body {
 	background color: beige; 	
 }
 	
+.photo }
+    max-width: 100%;
+    webkit-filter: grayscale(100%);
+}
+
 .contact-info {
   text-align: center;
   font-weight: 100; 
