@@ -1,5 +1,5 @@
 p {
-  color: green;
+  color: gray;
 }
 
 
@@ -20,7 +20,7 @@ body {
 }
 
 .main {
-  text-align: right;
+  text-align: left;
 }
 	
 h1 {
