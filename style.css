@@ -4,16 +4,13 @@ p {
 
 
 body {
-	height: 80%;
-	margin: 10;
-	text-align: left;
-	width: 80%;
+	
 }
 
 h1 {
    font-size: 32px;
    font-family:Palatimo, 'Palatino Linotype', serif;
-   color: gray;
+   color: black;
 }
 
 h4 {
@@ -25,9 +22,12 @@ h4 {
 h3 {
    font-size: 20px;
    font-family:Palatimo, 'Palatino Linotype', serif;
-   color: gray;
+   color: black;
 }
 
-
+ul {
+   font-size: 18px;
+   font-family:Palatimo, 'Palatino Linotype', serif;
+   color: gray;
 
 
