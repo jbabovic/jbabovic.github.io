@@ -16,14 +16,18 @@ h1 {
    color: gray;
 }
 
-h3 {
-   font-size: 24px;
-   font-family:Palatimo, 'Palatino Linotype', serif;
-}
-
 h4 {
    font-size: 18px;
    font-family:Palatimo, 'Palatino Linotype', serif;
+   color: gray;
 }
+
+h3 {
+   font-size: 20px;
+   font-family:Palatimo, 'Palatino Linotype', serif;
+   color: gray;
+}
+
+
 
 
