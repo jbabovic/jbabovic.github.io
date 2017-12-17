@@ -13,6 +13,7 @@ body {
 .contact-info {
   text-align: center;
   font-weight: 100;
+  diplay: inline; 
 }
 
 .main {
