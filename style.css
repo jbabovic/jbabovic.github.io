@@ -1,3 +1,31 @@
 p {
   color: red;
 }
+
+
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+  font-family:Palatimo, 'Palatino Linotype', serif;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+h1 {
+	font-size: 32px;
+  font-family:Palatimo, 'Palatino Linotype', serif;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+
