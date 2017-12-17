@@ -7,9 +7,22 @@ body {
 	margin-top: 20px;
 	margin-left: 200px;
 	margin-right: 200px;
-	text-align: center;
 }
 
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
+
+.contact-info {
+  border: 1px solid #000;
+  text-align: center;
+}
+
+.main {
+  text-align: right;
+}
+	
 h1 {
    font-size: 32px;
    font-family:Palatimo, 'Palatino Linotype', serif;
