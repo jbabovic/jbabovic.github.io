@@ -7,6 +7,7 @@ body {
 	margin-top: 20px;
 	margin-left: 200px;
 	margin-right: 200px;
+	border: 1px solid #000;
 }
 
 .page-title {
@@ -15,35 +16,35 @@ body {
 }
 
 .contact-info {
-  border: 1px solid #000;
   text-align: center;
 }
 
 .main {
   text-align: left;
+	
 }
 	
 h1 {
    font-size: 32px;
-   font-family:Palatimo, 'Palatino Linotype', serif;
+   font-family:'Lato', sans-serif;
    color: black;
 }
 
 h4 {
    font-size: 18px;
-   font-family:Palatimo, 'Palatino Linotype', serif;
+   font-family:'Lato', sans-serif;
    color: gray;
 }
 
 h3 {
    font-size: 20px;
-   font-family:Palatimo, 'Palatino Linotype', serif;
+   font-family:'Lato', sans-serif;
    color: black;
 }
 
 ul {
    font-size: 18px;
-   font-family:Palatimo, 'Palatino Linotype', serif;
+   font-family:'Lato', sans-serif;
    color: gray;
 
 
