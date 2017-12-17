@@ -10,13 +10,9 @@ body {
 	border: 1px solid #000;
 }
 
-.page-title {
-  text-align: center;
-  font-weight: 100;
-}
-
 .contact-info {
   text-align: center;
+  font-weight: 100;
 }
 
 .main {
